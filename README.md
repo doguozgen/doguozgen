@@ -45,7 +45,7 @@
     <h1 style="border:none">Contact Me On</h1>
   </a>
   <ul>
-    <li><a href="discord.com/users/1125959114216976434" rel="nofollow">My discord Profile</a></li>
+    <li><a href="https://discord.com/users/1125959114216976434" rel="nofollow">My discord Profile</a></li>
   </ul>
 </div>
 
