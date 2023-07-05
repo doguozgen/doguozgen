@@ -50,5 +50,9 @@
 </div>
 
 
-
-<!--<div style="margin-top:20rem"><img style="width:100%;height:75%" src="https://github-readme-streak-stats.herokuapp.com/?user=doguozgen&theme=blue-green"></div>--!>
+<div style="display:flex;overflow:auto">
+  <a src="#" href="#">
+    <h1 style="border:none">Other Stats</h1>
+  </a>
+</div>
+<div style="margin-top:20rem"><img style="width:100%;height:75%" src="https://github-readme-streak-stats.herokuapp.com/?user=doguozgen&theme=blue-green"></div>
