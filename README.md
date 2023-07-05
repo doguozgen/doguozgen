@@ -5,7 +5,7 @@
 </div>
 
 <div style="display:flex;overflow:auto">
-  <p style="border:none">Me & My Expretises</p>
+  <h1 style="border:none">Me & My Expretises</h1>
 </div>
 
 <div style="display:flex">
