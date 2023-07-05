@@ -1,7 +1,7 @@
 ### Hi there 👋, i am Doğu
 <div style="display:flex">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguozgen" /> 
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=doguozgen&show_icons=true&theme=radical" /> 
+  <img align="left" width="47%" disabled src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguozgen" /> 
+  <img align="left" width="48%" disabled src="https://github-readme-stats.vercel.app/api?username=doguozgen&show_icons=true&theme=radical" /> 
 </div>
 
 <div style="display:flex;overflow:auto">
