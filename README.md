@@ -28,6 +28,7 @@
   <img style="width:5rem;height:5rem" src="https://raw.githubusercontent.com/doguozgen/doguozgen/dc76c13e85bb1bbd4d6892524c288b6d5ec67dc1/xampp.svg">
   <img style="width:5rem;height:5rem" src="https://raw.githubusercontent.com/doguozgen/doguozgen/dc76c13e85bb1bbd4d6892524c288b6d5ec67dc1/linux.svg">
 </div>
-<div>
+
+<div style="margin-top:20rem">
   <img style="width:100%;height:75%" src="https://github-readme-streak-stats.herokuapp.com/?user=doguozgen&theme=blue-green">
 </div>
